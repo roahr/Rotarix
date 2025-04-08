@@ -113,14 +113,8 @@ Rotarix is a cryptographic key management and rotation system designed to enhanc
   - Efficient querying for frontend integration
 ---
 
-## Research Paper
-Our project is supported by our research paper on **AI-Driven Automated Cryptographic Key Management**, which details the methodologies, implementation, and security enhancements of Rotarix. 
-
-📄 **Read the paper here**: [AI-Driven Automated Cryptographic Key Management](https://drive.google.com/file/d/1UO27A1JvB3JkQxTKJKWy8plL_xsCwA5u/view?usp=sharing)
-
----
 ## Demo Video  
-🔗 **Watch the full demo here:** [https://youtu.be/t-4hM0UX-OE](https://youtu.be/t-4hM0UX-OE)  
+🔗 **Watch the full demo here:** [https://youtu.be/jzBNA5jrOms?si=hRYeq2DzSUGhD182](https://youtu.be/jzBNA5jrOms?si=hRYeq2DzSUGhD182)  
 ---
 
 ## Getting Started
@@ -135,7 +129,7 @@ Our project is supported by our research paper on **AI-Driven Automated Cryptogr
 ### Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/fromjyce/rotarix.git
+   git clone https://github.com/roahr/rotarix.git
    cd rotarix
    ```
 2. Install dependencies
